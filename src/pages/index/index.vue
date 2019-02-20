@@ -42,7 +42,10 @@ export default {
         id: '2'
       },{
         name: '吴亦凡',
-        id: '2'
+        id: '3'
+      },{
+        name: '郭碧婷',
+        id: '4'
       }]
     }
   },
